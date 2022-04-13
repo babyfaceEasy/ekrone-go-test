@@ -1,0 +1,11 @@
+hold.txt
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Compiled file
+./server
